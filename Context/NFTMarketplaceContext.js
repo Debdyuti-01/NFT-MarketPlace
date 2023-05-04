@@ -89,10 +89,10 @@ export const NFTMarketplaceProvider = ({ children }) => {
         console.log("No account");
       }
 
-      /*const provider = new ethers.providers.Web3Provider(window.ethereum);
+      const provider = new ethers.providers.Web3Provider(window.ethereum);
       const getBalance = await provider.getBalance(accounts[0]);
       const bal = ethers.utils.formatEther(getBalance);
-      setAccountBalance(bal);*/
+      setAccountBalance(bal);
       console.log(currentAccount);
     } catch (error) {
       // setError("Something wrong while connecting to wallet");
