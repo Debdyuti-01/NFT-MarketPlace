@@ -21,9 +21,11 @@ The application also allows buyers to mint their own NFTs, giving them the abili
 7. Subscription module to achieve premium access
 8. Creation of different user profiles which allows minting of NFTs
 9. Filteration of NFTs based on categories 
-10. Users can give likes for another user as well
-11. Developed an interactive User Interface
-12. Deployed the application to Polygon test network
+10. Auction of NFTs
+11. Users can give likes for another user as well
+12. Developed an interactive User Interface
+13. Deployed the application to Polygon test network
+14. 
 
 ### Team Members
 
