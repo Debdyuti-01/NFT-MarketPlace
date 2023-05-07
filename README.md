@@ -1,4 +1,4 @@
-# Final Project(Team: CryptoZombies): NFT Marketplace 
+# Final Project(Team - CryptoZombies): NFT Marketplace 
 Advanced Blockchain Technology(CPSC 559) - Under Professor Wenlin Han at California State University-Fullerton
 
 # Project Description:
@@ -10,7 +10,7 @@ The application also allows buyers to mint their own NFTs, giving them the abili
 
 
 # Project Details:
-## The entire code of the project has been developed from scratch.
+## The entire code of the project has been developed from scratch
 # Below are the listed features of NFT Marketplace:
 1. Creation of new NFT
 2. Browsing for NFT across different categories
