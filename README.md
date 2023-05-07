@@ -1,4 +1,4 @@
-#NFT Marketplace
+# NFT Marketplace
 Advanced Blockchain Technology(CPSC 559) - Under Professor Wenlin Han at California State University-Fullerton
 
 # Project Description:
@@ -24,19 +24,19 @@ Shriya Bannikop (885196238) - shriyabannikop@csu.fullerton.edu
 ### Project URL
 - https://github.com/Debdyuti-01/NFT-MarketPlace
 
-##Steps to run the project:
-###Clone the repository:
+# Steps to run the project:
+### Clone the repository:
 git clone https://github.com/Debdyuti-01/NFT-MarketPlace.git
 
-###Install Hardhat:
+### Install Hardhat:
 npm install --save-dev hardhat
 
-###To run: (Keep this running):
+### To run: (Keep this running):
 npx hardhat node
 
-###In another terminal to deploy the smart contract to localhost:
+### In another terminal to deploy the smart contract to localhost:
 npx hardhat run scripts/deploy.js --network localhost
 
-###To launch the application:
+### To launch the application:
 npm run dev
 
