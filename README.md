@@ -13,14 +13,17 @@ The application also allows buyers to mint their own NFTs, giving them the abili
 ## The entire code of the project has been developed from scratch.
 # Below are the listed features of NFT Marketplace:
 1. Creation of new NFT
-2. Searching for NFT across different categories
+2. Browsing for NFT across different categories
 3. Selling of NFTs
 4. Buying of NFTs
 5. Connection of different wallet options 
 6. Transfering funds across users
 7. Subscription module to achieve premium access
-8. Developed an interactive User Interface
-9. Deployed the application to Polygon test network
+8. Creation of different user profiles which allows minting of NFTs
+9. Filteration of NFTs based on categories 
+10. Users can give likes for another user as well
+11. Developed an interactive User Interface
+12. Deployed the application to Polygon test network
 
 ### Team Members
 
