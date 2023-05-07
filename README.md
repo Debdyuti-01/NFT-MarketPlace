@@ -1,4 +1,4 @@
-# NFT Marketplace
+# Final Project(Team: CryptoZombies): NFT Marketplace 
 Advanced Blockchain Technology(CPSC 559) - Under Professor Wenlin Han at California State University-Fullerton
 
 # Project Description:
@@ -9,7 +9,18 @@ The front-end of the app is built using a React app template that comes with pre
 The application also allows buyers to mint their own NFTs, giving them the ability to create and sell their own unique digital assets on the platform.
 
 
-# Final Project: (Team: CryptoZombies)
+# Project Details:
+## The entire code of the project has been developed from scratch.
+# Below are the listed features of NFT Marketplace:
+1. Creation of new NFT
+2. Searching for NFT across different categories
+3. Selling of NFTs
+4. Buying of NFTs
+5. Connection of different wallet options 
+6. Transfering funds across users
+7. Subscription module to achieve premium access
+8. Developed an interactive User Interface
+9. Deployed the application to Polygon test network
 
 ### Team Members
 
@@ -39,4 +50,7 @@ npx hardhat run scripts/deploy.js --network localhost
 
 ### To launch the application:
 npm run dev
+
+### To deploy the smart contract to Polygon network: 
+npx hardhat run scripts/deploy.js --network polygon
 
