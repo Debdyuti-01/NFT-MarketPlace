@@ -57,5 +57,5 @@ npx hardhat run scripts/deploy.js --network localhost
 npm run dev
 
 ### To deploy the smart contract to Polygon network: 
-npx hardhat run scripts/deploy.js --network polygon
+npx hardhat run scripts/deploy.js --network polygon_mumbai
 
