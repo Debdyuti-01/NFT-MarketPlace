@@ -9,23 +9,23 @@ import images from "../img";
 const aboutus = () => {
   const founderArray = [
     {
-      name: "Niamh O'Shea",
-      position: "Co-founder and Chief Executive",
+      name: "Debdyuti Das",
+      position: "CFO",
       images: images.founder1,
     },
     {
-      name: "Danien Jame",
-      position: "Co-founder and Chief Executive",
+      name: "Shriya B",
+      position: "CFO",
       images: images.founder2,
     },
     {
-      name: "Orla Dwyer",
-      position: "Co-founder, Chairman",
+      name: "Meghana BT",
+      position: "Chairman",
       images: images.founder3,
     },
     {
-      name: "Dara Frazier",
-      position: "Co-Founder, Chief Strategy Officer",
+      name: "Pooja Ravi",
+      position: "Chief Strategy Officer",
       images: images.founder4,
     },
   ];

@@ -28,9 +28,9 @@ const Home = () => {
   const { checkIfWalletConnected, currentAccount } = useContext(
     NFTMarketplaceContext
   );
-  useEffect(() => {
-    checkIfWalletConnected();
-  }, []);
+  //useEffect(() => {
+  //  checkIfWalletConnected();
+ // }, []);
 
   const { fetchNFTs } = useContext(NFTMarketplaceContext);
   const [nfts, setNfts] = useState([]);

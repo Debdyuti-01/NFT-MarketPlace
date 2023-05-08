@@ -6,9 +6,8 @@ import nftMarketplace from "./NFTMarketplace.json";
 import transferFunds from "./TransferFunds.json";
 
 //NFT MARKETPLACE
-export const NFTMarketplaceAddress =
- // "0xAd235275eaC38C61725Eed38757a7965188EAa36";
- "0x5FbDB2315678afecb367f032d93F642f64180aa3";
+export const NFTMarketplaceAddress = //"0x458aA69da0B7f50cbb927290859FAa5D215463ff"; //polygon_mumbai
+"0x5FbDB2315678afecb367f032d93F642f64180aa3"; //localhost
 export const NFTMarketplaceABI = nftMarketplace.abi;
 
 //TRANSFER FUNDS

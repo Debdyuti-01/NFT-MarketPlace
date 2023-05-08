@@ -62,6 +62,11 @@ export const NFTMarketplaceContext = React.createContext();
 export const NFTMarketplaceProvider = ({ children }) => {
   const titleData = "Discover, collect, and sell NFTs";
 
+  //const checkContract = async () => {
+    //const contract = await connectingWithSmartContract();
+    //console.log(contract);
+ // };
+
   //------USESTAT
   const [error, setError] = useState("");
   const [openError, setOpenError] = useState(false);
@@ -190,7 +195,7 @@ export const NFTMarketplaceProvider = ({ children }) => {
     try {
       const provider = new ethers.providers.JsonRpcProvider(
         //--process.env.NEXT_PUBLIC_POLYGON_MUMBAI_RPC
-       // "https://polygon-mumbai.g.alchemy.com/v2/0awa485pp03Dww2fTjrSCg7yHlZECw-K"
+        //"https://polygon-mumbai.g.alchemy.com/v2/0awa485pp03Dww2fTjrSCg7yHlZECw-K"
       );
 
       const contract = fetchContract(provider);
