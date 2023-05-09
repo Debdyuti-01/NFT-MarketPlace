@@ -23,17 +23,16 @@ const contactus = () => {
             <div className={Style.contactus_box_box_left_item}>
               <h3>🗺 ADDRESS</h3>
               <p>
-                Photo booth tattooed prism, portland taiyaki hoodie neutra
-                typewriter
+                600 Langsdorf Dr,Fullerton, CA
               </p>
             </div>
             <div className={Style.contactus_box_box_left_item}>
               <h3>💌 EMAIL</h3>
-              <p>nc.example@example.com</p>
+              <p>debdyutidas@gmail.com</p>
             </div>
             <div className={Style.contactus_box_box_left_item}>
               <h3>☎ PHONE</h3>
-              <p>000-123-456-7890</p>
+              <p>6576267460</p>
             </div>
             <div className={Style.contactus_box_box_left_item}>
               <h3>🌏 SOCIALS</h3>
@@ -60,7 +59,7 @@ const contactus = () => {
                 <label htmlFor="name">Full Name</label>
                 <input
                   type="text"
-                  placeholder="shoaib bhai"
+                  placeholder="Enter name"
                   className={formStyle.Form_box_input_userName}
                 />
               </div>
@@ -70,7 +69,7 @@ const contactus = () => {
                   <div className={formStyle.Form_box_input_box_icon}>
                     <HiOutlineMail />
                   </div>
-                  <input type="text" placeholder="Email*" />
+                  <input type="text" placeholder="Enter email address" />
                 </div>
               </div>
               <div className={formStyle.Form_box_input}>
@@ -80,7 +79,7 @@ const contactus = () => {
                   id=""
                   cols="30"
                   rows="6"
-                  placeholder="something about yourself in few words"
+                  placeholder="Describe in few words"
                 ></textarea>
               </div>
               <Button
