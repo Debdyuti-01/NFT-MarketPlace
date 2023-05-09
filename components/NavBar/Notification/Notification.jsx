@@ -12,7 +12,7 @@ const Notification = () => {
       <div className={Style.notification_box}>
         <div className={Style.notification_box_img}>
           <Image
-            src={images.user1}
+            src={images.user2}
             alt="profile image"
             width={50}
             height={50}
@@ -20,8 +20,8 @@ const Notification = () => {
           />
         </div>
         <div className={Style.notification_box_info}>
-          <h4>Debdyuti Das</h4>
-          <p>Measure action your user...</p>
+          <h4>Moumita Das</h4>
+          <p>User has bought new NFT...</p>
           <small>3 minutes ago</small>
         </div>
         <span className={Style.notification_box_new}></span>
