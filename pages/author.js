@@ -20,32 +20,32 @@ const author = () => {
     {
       background: images.creatorbackground1,
       user: images.user1,
-      seller: "7d64gf748849j47fy488444",
+      seller: "Bob",
     },
     {
       background: images.creatorbackground2,
       user: images.user2,
-      seller: "7d64gf748849j47fy488444",
+      seller: "Rob",
     },
     {
       background: images.creatorbackground3,
       user: images.user3,
-      seller: "7d64gf748849j47fy488444",
+      seller: "Christin",
     },
     {
       background: images.creatorbackground4,
       user: images.user4,
-      seller: "7d64gf748849j47fy488444",
+      seller: "Jane",
     },
     {
       background: images.creatorbackground5,
       user: images.user5,
-      seller: "7d64gf748849j47fy488444",
+      seller: "Sam",
     },
     {
       background: images.creatorbackground6,
       user: images.user6,
-      seller: "7d64gf748849j47fy488444",
+      seller: "Dane",
     },
   ];
 
@@ -102,7 +102,7 @@ const author = () => {
       />
       <Title
         heading="Popular Creators"
-        paragraph="Click on music icon and enjoy NTF music or audio
+        paragraph="Click on music icon and enjoy NFT music or audio
 "
       />
       <div className={Style.author_box}>

@@ -34,7 +34,7 @@ const AudioCardSmall = () => {
             <LikeProfile />
             <div className={Style.audioPlayer_box_info_box_price}>
               <small>Price</small>
-              <p>1.00 ETH</p>
+              <p>10 ETH</p>
             </div>
           </div>
         </div>
