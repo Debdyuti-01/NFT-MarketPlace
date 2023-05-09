@@ -32,16 +32,16 @@ const aboutus = () => {
 
   const factsArray = [
     {
-      title: "10 million",
-      info: "Articles have been public around the world (as of Sept. 30, 2021)",
+      title: "10 M",
+      info: "Articles have been public around the world (as of January 30, 2022)",
     },
     {
       title: "100,000",
-      info: "Registered users account (as of Sept. 30, 2021)",
+      info: "Registered users account (as of January 30, 2021)",
     },
     {
       title: "220+",
-      info: "Countries and regions have our presence (as of Sept. 30, 2021",
+      info: "Countries and regions have our presence (as of January 30, 2021",
     },
   ];
   return (
@@ -51,9 +51,7 @@ const aboutus = () => {
           <div className={Style.aboutus_box_hero_left}>
             <h1>👋 About Us.</h1>
             <p>
-              We’re impartial and independent, and every day we create
-              distinctive, world-class programmes and content which inform,
-              educate and entertain millions of people in the around the world.
+              At NFT Marketplace, we believe in the transformative power of digital art and the potential of blockchain technology to revolutionize the way we collect and trade it. Our mission is to create a platform that empowers artists and collectors to connect and exchange digital art in a decentralized and secure manner
             </p>
           </div>
           <div className={Style.aboutus_box_hero_right}>
@@ -64,8 +62,7 @@ const aboutus = () => {
         <div className={Style.aboutus_box_title}>
           <h2>⛱ Founder</h2>
           <p>
-            We’re impartial and independent, and every day we create
-            distinctive, world-class programmes and content
+            Our team is made up of talented developers, designers, marketers, and other professionals who are dedicated to making our company the best NFT marketplace on the web. We're always looking for ways to improve our platform and provide our users with the best possible experience
           </p>
         </div>
 
@@ -88,10 +85,10 @@ const aboutus = () => {
         </div>
 
         <div className={Style.aboutus_box_title}>
-          <h2>🚀 Fast Facts</h2>
+          <h2>🚀 Quick Facts</h2>
           <p>
             We’re impartial and independent, and every day we create
-            distinctive, world-class programmes and content
+            distinctive, world-class programs and content
           </p>
         </div>
 

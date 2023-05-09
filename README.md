@@ -1,4 +1,4 @@
-# Final Project(Team - CryptoZombies): NFT Marketplace 
+# Final Project (Team - CryptoZombies): NFT Marketplace 
 Advanced Blockchain Technology(CPSC 559) - Under Professor Wenlin Han at California State University-Fullerton
 
 # Project Description:
@@ -57,5 +57,5 @@ npx hardhat run scripts/deploy.js --network localhost
 npm run dev
 
 ### To deploy the smart contract to Polygon network: 
-npx hardhat run scripts/deploy.js --network polygon
+npx hardhat run scripts/deploy.js --network polygon_mumbai
 
